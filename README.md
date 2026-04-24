@@ -14,6 +14,6 @@ As of 4/24/2026, all but two assignments have been completed. The competition an
 
 ## Notes
 
-Placeholder text files have been added in the SQL 4 and Competition folders to indicate those assignments have not been uploaded yet.
+Placeholder text files have been added in the SQL 4 and Competition folders to show that these assignments are not missing and will be uploaded by their extended due date.
 
 This repository contains coursework assignments organized by folder for portfolio submission.
