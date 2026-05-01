@@ -1,6 +1,6 @@
 # Portfolio-
 Portfolio of all of my assignments
-As of 4/24/2026, all but two assignments have been completed. The competition and SQL 4 will be uploaded later.
+As of 4/30/2026, all but assignments have been completed.
 
 ## Assignment Folders
 
@@ -13,7 +13,4 @@ As of 4/24/2026, all but two assignments have been completed. The competition an
 - Competition  
 
 ## Notes
-
-Placeholder text files have been added in the SQL 4 and Competition folders to show that these assignments are not missing and will be uploaded by their extended due date.
-
 This repository contains coursework assignments organized by folder for portfolio submission.
